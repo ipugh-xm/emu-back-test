@@ -6,4 +6,4 @@ services:
 notifications:
     webhooks:
         urls:
-            - https://ipugh.xmatters.com/api/integration/1/functions/49ec8f79-d35a-449f-8aa4-baa7c5988464/triggers?apiKey=026e2c1b-2c20-4039-81b7-6e201b3cecda
+            - https://ipugh.xmatters.com/api/integration/1/functions/67c8782c-4033-4a11-94f0-cc0c90222bf5/triggers?apiKey=40c05517-3710-482e-9d81-ed8eaea779e5
