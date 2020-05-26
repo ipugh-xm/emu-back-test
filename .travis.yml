@@ -2,3 +2,8 @@ language: go
 
 services:
     - docker
+
+notifications:
+    webhooks:
+        urls:
+            - https://ipugh.xmatters.com/api/integration/1/functions/49ec8f79-d35a-449f-8aa4-baa7c5988464/triggers?apiKey=026e2c1b-2c20-4039-81b7-6e201b3cecda
